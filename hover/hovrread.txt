@@ -1,0 +1,138 @@
+    ------------------------------------------------------------
+                       Microsoft Hover! README
+                             August 1995
+    ------------------------------------------------------------
+              (c) Copyright Microsoft Corporation, 1995
+
+This document provides complementary or late-breaking information to
+supplement the Microsoft Windows 95 documentation.
+
+------------------------
+How to Use This Document
+------------------------
+To view Hovrread.txt on screen in Notepad, maximize the Notepad window.
+
+To print Hovrread.txt, open it in Notepad or another word processor, 
+then use the Print command on the File menu.
+
+
+--------
+CONTENTS
+
+MINIMUM SYSTEM REQUIREMENTS
+RECOMMENDED SYSTEM REQUIREMENTS
+USING HOVER! WITH MOUSEKEYS ENABLED
+TIPS FOR PLAYING HOVER!
+RUNNING HOVER! FASTER
+IF YOU HAVE PROBLEMS WITH SOUND
+HOVER! STOPS RESPONDING
+--------
+
+MINIMUM SYSTEM REQUIREMENTS
+===========================
+
+- 486/33 processor
+- 8 MB RAM
+- Sound card
+- CD-ROM drive
+- SVGA monitor
+- Microsoft Windows 95
+
+
+RECOMMENDED SYSTEM REQUIREMENTS
+===============================
+- 486/66 DX processor
+- 8 MB RAM
+- Sound card
+- CD-ROM drive
+- SVGA monitor
+- Microsoft Windows 95
+
+
+USING HOVER! WITH MOUSEKEYS ENABLED
+===================================
+If you have used the Accessibility Options in Control Panel to turn
+on MouseKeys, you must reassign the keys you use to maneuver your
+Hovercraft. To do this, carry out the following procedure:
+1. On the Options menu, click Player Controls.
+2. Click Set Keys.
+3. Choose the keys you want to use to move your Hovercraft.
+
+
+TIPS FOR PLAYING HOVER!
+=======================
+Collect objects such as jumps and walls whenever you have a chance. 
+They will be useful on the higher levels.
+
+If you see a drone that has already captured one of your flags, and a
+flag-remover pad is nearby, bump the drone onto the pad and the drone
+will drop the flag.
+
+If a drone is in pursuit or on the way to collecting a flag, you can
+knock it into a skid pad to get it off course, confuse it, and slow
+it down.
+
+If a drone is near a hold or skid pad, drop a wall in front of it to
+send it into the wall and onto the pad!
+
+If you see a hazard coming up that you can't avoid, use a jump (if
+you have one) to jump over the square.
+
+Use walls and skid pads to rapidly change direction to avoid drones
+and other hazards.
+
+
+RUNNING HOVER! FASTER
+=====================
+Quit all other programs.
+
+If you want to run Hover! in the fastest possible full-screen mode,
+press F4. Hover! will run fast, but the graphics will be displayed
+in less detail.
+
+If you want to run Hover! in 640x480 full-screen mode, press SHIFT+F4.
+Hover! will display higher resolution graphics, but will run slower.
+
+If you are using a computer with the Energy Star power-saver feature
+turned on, you will periodically experience very slow frame rates.
+To enable Hover! to run faster, turn off the energy-saving feature
+by carrying out the following procedure:
+1. In Control Panel, double-click the Power Management icon.
+2. Click the Power Management check box.
+
+
+IF YOU HAVE PROBLEMS WITH SOUND
+===============================
+If you are experiencing problems with the sound effects in Hover!,
+you can run a special program to identify the exact sound card you
+have by carrying out the following procedure:
+1. Insert your Windows 95 CD-ROM in the CD-ROM drive and then open
+   the Sounds folder, which is located in the Funstuff\Hover folder.
+2. Double-click the icon for Wmconfig.exe, and then follow the
+   instructions on your screen.
+3. If you don't know what kind of sound card you have or can't find
+   its name on the list, click the first Generic option on the list,
+   and then click Test.
+4. Restart Hover! and see if the sound effects are correct. If they
+   are not, repeat steps 3 and 4 until the sound effects work
+   properly.
+
+
+HOVER! STOPS RESPONDING
+=======================
+Your computer may not respond if:
+- You have reserved a large amount of RAM for a RAM disk or SmartDrive.
+- You are low on disk space (for the page file).
+- You have disabled Virtual Memory.
+
+To correct the problem, try one or more of the following:
+- Make sure that the hard drive has sufficient space free (20 MB) for
+  the page file.
+- Use only a small SmartDrive (.5 MB to 2 MB).
+- Don't use RAM drives.
+- Make sure Virtual Memory is enabled. To do this, carry out the
+  following procedure:
+  1. In Control Panel, double-click the System icon.
+  2. Click the Performance tab, and then click Virtual Memory.
+  3. Make sure Let Windows Manage My Virtual Memory Settings
+     (Recommended) is checked.

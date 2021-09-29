@@ -1,0 +1,26 @@
+:Base Hover.hlp>PROC4
+:Title Hover! Help
+:Index Hover! Help=Hover.hlp
+1 Introduction=Hover_Introduction
+1 ReadMe=!ExecProgram("notepad.exe HovrRead.txt")
+1 Getting Started
+2 Playing Hover!=Hover_How_To_Play
+2 Using the keyboard to move through the maze=Hover_Using_The_Keyboard
+2 Starting at a specific level=Hover_Starting_At_A_Specific_Level
+2 Scoring=Hover_Scoring
+2 Objects in the maze=Hover_Bambi_Objects2
+2 Using objects=Hover_Using_Objects
+2Tips and strategies=Hover_Tips_And_Strategies
+1 Customizing Hover!
+2 Choosing the game settings=Hover_Setting_The_Game_Options
+2 Changing player controls=Hover_Changing_The_Player_Controls
+2 Changing window size=Hover_Changing_The_Sreen
+2 Turning sounds on and off=Hover_Turning_The_Sounds_On_And_Off
+2 Turning Quick Help on and off=Hover_Turning_Quick_Help_On_And_Off
+1 Troubleshooting
+2 If you move through the maze too slowly=Hover_Trouble_Slow
+2 If the sounds in Hover! sound funny or you don't hear any sounds=Hover_Trouble_Sounds
+2 If you have an ISA video board=Hover_Trouble_ISA_Board
+2 If the graphics look bad=Hover_Chunky_Graphics
+2 If the keypad arrow keys don't work=Hover_Trouble_Keypad
+
